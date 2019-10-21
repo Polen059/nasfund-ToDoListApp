@@ -168,6 +168,8 @@ footer {
     font-size: 0.8rem;
     margin: 0.3rem 0.8rem;
     padding-left: 0.8rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.3rem;
 }
 
 hr {
@@ -182,7 +184,7 @@ hr {
 address {
     font-size: 0.8rem;
     text-align: center;
-    background: url('../img/footer_bg.jpg');
+    background: url('../img/footer_bg-.jpg');
     padding: 0.6rem;
     color: #000;   
 }
